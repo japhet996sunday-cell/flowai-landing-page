@@ -35,7 +35,7 @@ FlowAI/
 └── README.md
 
 ## Live Demo 
-https://japhet996sunday-cell.github.io/flowai-landing-page/
+https://flowai-landing-page.netlify.app/
 
 ## Author
 
